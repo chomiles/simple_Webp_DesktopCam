@@ -1,3 +1,4 @@
+<img width="502" height="387" alt="스크린샷 2026-07-01 142212" src="https://github.com/user-attachments/assets/ec951c94-40c6-46b3-a916-7f37e531a537" />
 # Webp_DesktopCam
 
 Lightweight Windows region capture app written in C++/WinAPI.
